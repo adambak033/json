@@ -17,14 +17,7 @@
                 {
                     "title": "Pendentifs",
                     "type": "number",
-                    "choices": [
-                        0,
-                        1,
-                        2,
-                        3,
-                        4,
-                        5
-                    ]
+                    "max": 5
                 },
                 {
                     "title": "Couleur",
@@ -57,14 +50,7 @@
                 {
                     "title": "Pendentifs",
                     "type": "number",
-                    "choices": [
-                        0,
-                        1,
-                        2,
-                        3,
-                        4,
-                        5
-                    ]
+                    "max": 4
                 },
                 {
                     "title": "Couleur",
@@ -97,14 +83,7 @@
                 {
                     "title": "Pendentifs",
                     "type": "number",
-                    "choices": [
-                        0,
-                        1,
-                        2,
-                        3,
-                        4,
-                        5
-                    ]
+                    "max": 2
                 },
                 {
                     "title": "Couleur",
@@ -137,14 +116,7 @@
                 {
                     "title": "Pendentifs",
                     "type": "number",
-                    "choices": [
-                        0,
-                        1,
-                        2,
-                        3,
-                        4,
-                        5
-                    ]
+                    "max": 12
                 },
                 {
                     "title": "Couleur",
@@ -177,14 +149,7 @@
                 {
                     "title": "Pendentifs",
                     "type": "number",
-                    "choices": [
-                        0,
-                        1,
-                        2,
-                        3,
-                        4,
-                        5
-                    ]
+                    "max": 9
                 },
                 {
                     "title": "Couleur",
