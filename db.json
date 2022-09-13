@@ -31,7 +31,9 @@
                     ]
                 }
             ],
-            "price": 19
+            "price": 19,
+            "quantity": 3,
+            "maxPerCommand": 5
         },
         {
             "id": 2,
@@ -64,7 +66,9 @@
                     ]
                 }
             ],
-            "price": 25
+            "price": 25,
+            "quantity": 32,
+            "maxPerCommand": 5
         },
         {
             "id": 3,
@@ -97,7 +101,9 @@
                     ]
                 }
             ],
-            "price": 46
+            "price": 46,
+            "quantity": 56,
+            "maxPerCommand": 5
         },
         {
             "id": 4,
@@ -130,7 +136,9 @@
                     ]
                 }
             ],
-            "price": 56
+            "price": 56,
+            "quantity": 20,
+            "maxPerCommand": 5
         },
         {
             "id": 5,
@@ -163,7 +171,9 @@
                     ]
                 }
             ],
-            "price": 78
+            "price": 78,
+            "quantity": 150,
+            "maxPerCommand": 5
         }
     ]
 }
